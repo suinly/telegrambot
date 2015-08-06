@@ -1,0 +1,12 @@
+{
+    "telegram": {
+        "token": "token string",
+        "options": {
+            "polling": true
+        }
+    },
+
+    "plugins": [
+        "floods"
+    ]
+}

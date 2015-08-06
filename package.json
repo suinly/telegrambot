@@ -1,0 +1,12 @@
+{
+    "name": "jarvis-telegram-bot",
+    "version": "0.0.1",
+    "description": "Telegram Bot",
+    "main": "app.js",
+    "scripts": {
+        "start": "node app.js"
+    },
+    "dependencies": {
+        "node-telegram-bot-api": ">= 0.11.1"
+    }
+}
